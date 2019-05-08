@@ -1,6 +1,6 @@
 ## Neutral language processing HW6
 
-Link to my github repo for this hw: TODO - link
+Link to my github repo for this hw: https://github.com/kadiraktass/nlp_hw6
 
 # STEP 1
 
