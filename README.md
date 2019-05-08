@@ -20,10 +20,10 @@ Config for the baseline model: https://github.com/kadiraktass/nlp_hw6/blob/maste
 Config for the ELMO model: https://github.com/kadiraktass/nlp_hw6/blob/master/elmo_config.json  
 
 # STEP 2
-I had overfitting.  
-![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/legend.png)
-![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/acc_before.png)
-![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/loss_before.png)
+I had overfitting.  As you can see in the graph, the gap between training accuracy is much more higher than validation accuracy.  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/legend.png)  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/acc_before.png)  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/loss_before.png)  
 
 Changes:  
 1) Epoch number is decreased from 20 to 5. Patience is decreased from 5 to 1.  
