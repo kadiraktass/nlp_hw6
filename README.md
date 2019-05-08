@@ -45,7 +45,7 @@ Changes:
  Compared to before overfitting is reduced. Actually, we can say that there is not an overfitting anymore.  
  On the other hand, validation accuracy decreased.  
  However, it is ok, because we got rid of overfitting by sacrificing just a little bit of validation accuracy.  
- Config file with new hyperparameters: TODO - link  
+ Config file with new hyperparameters: https://github.com/kadiraktass/nlp_hw6/blob/master/elmo_changed_config.json   
  After changes:  
 ![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/legend.png)  
 ![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/acc_after.png)  
