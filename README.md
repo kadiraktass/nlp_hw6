@@ -46,6 +46,11 @@ Changes:
  On the other hand, validation accuracy decreased.  
  However, it is ok, because we got rid of overfitting by sacrificing just a little bit of validation accuracy.  
  Config file with new hyperparameters: TODO - link  
+ After changes:  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/legend.png)  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/acc_after.png)  
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/loss_after.png)  
+
  
  # STEP 3
  
