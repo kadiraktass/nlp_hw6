@@ -16,8 +16,8 @@ For ELMO model:
   
 I choose ELMO model to continue. Because it has less overfitting and better validation accuracy.
 
-Config for the baseline model: TODO - link
-Config for the ELMO model: TODO - link
+Config for the baseline model: https://github.com/kadiraktass/nlp_hw6/blob/master/baseline_config.json
+Config for the ELMO model: https://github.com/kadiraktass/nlp_hw6/blob/master/elmo_config.json
 
 # STEP 2
 I had overfitting.
