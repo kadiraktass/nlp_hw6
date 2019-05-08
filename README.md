@@ -21,8 +21,9 @@ Config for the ELMO model: https://github.com/kadiraktass/nlp_hw6/blob/master/el
 
 # STEP 2
 I had overfitting.  
-
-TODO - graph
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/legend.png)
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/acc_before.png)
+![alt text](https://github.com/kadiraktass/nlp_hw6/blob/master/loss_before.png)
 
 Changes:  
 1) Epoch number is decreased from 20 to 5. Patience is decreased from 5 to 1.  
